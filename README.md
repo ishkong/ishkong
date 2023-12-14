@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishkong&layout=compact" />
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ishkong&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
+
 <!--
 **ishkong/ishkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
